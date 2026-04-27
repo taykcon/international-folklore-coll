@@ -1,4 +1,4 @@
-field,display_name
+field,display_name, external_link
 title,Title
 creator, Creator
 illustrator, Illustrator
@@ -9,9 +9,9 @@ language, Language
 country-of-origin, Country of Origin
 current-location, Current Location
 description,Description
-subject,Subjects
-source, Source
-rights, Rights
-relation, Relation
+subject,Subjects, true
+source, Source, true
+rights, Rights, true
+relation, Relation, true
 format, Format
 filesize, File Size
