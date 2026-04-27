@@ -1,5 +1,17 @@
 field,display_name
 title,Title
+creator, Creator
+illustrator, Illustrator
 date,Date
+date-is-approximate, Date is Approximate
+physical-format, Physical Format
+language, Language
+country-of-origin, Country of Origin
+current-location, Current Location
 description,Description
 subject,Subjects
+source, Source
+rights, Rights
+relation, Relation
+format, Format
+filesize, File Size
