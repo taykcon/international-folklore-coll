@@ -13,10 +13,10 @@ relevant-to-class, Potential UIowa Class Uses
 language, Language, true
 latitude,Latitude
 longitude,Longitude
-source,Source
+source,Source,,true
 identifier,Source Identifier,,
 type,Type,
 format,Format,
-rights,Rights,
+rights,Rights,,true
 rightsstatement,Rights Statement,,true
-relation, Relation
+relation, Relation,,true
