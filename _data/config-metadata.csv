@@ -1,10 +1,16 @@
 field,display_name,browse_link,external_link
 title,Title,
 creator,Creator,
+illustrations, Illustrations
+illustrator, Illustrator
 date,Date Created,
+date-is-approximate, Date is Approximate
 description,Description,
 subject,Subjects,true
-location,Location
+country-of-origin,Country of Origin
+current-location, Current Location
+relevant-to-class, Potential UIowa Class Uses
+language, Language, true
 latitude,Latitude
 longitude,Longitude
 source,Source
@@ -13,3 +19,4 @@ type,Type,
 format,Format,
 rights,Rights,
 rightsstatement,Rights Statement,,true
+relation, Relation
